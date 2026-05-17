@@ -51,8 +51,8 @@
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| 🏠 ML Price Predictor | End-to-end ML web app with deployment | Python, Scikit-learn, Streamlit | 🔨 Coming Soon |
-| 💬 Sentiment Analyzer | NLP dashboard for review analysis | BERT, HuggingFace, Streamlit | 🔨 Coming Soon |
+| 🏠 [ML Price Predictor](https://sujitha-house-price-predictor.streamlit.app) | End-to-end ML web app with deployment | Python, Scikit-learn, Streamlit | ✅ Live! |
+| 💬 [Sentiment Analyzer](https://sujitha-sentiment-nlp.streamlit.app) | NLP dashboard for review analysis | TF-IDF, Logistic Regression, Streamlit | ✅ Live! |
 | 🤖 PDF Q&A Chatbot | RAG-based document chatbot | LangChain, ChromaDB, Groq | 🔨 Coming Soon |
 | ⚙️ ML Pipeline + CI/CD | MLOps pipeline with Docker & GitHub Actions | MLflow, Docker, GitHub Actions | 🔨 Coming Soon |
 
