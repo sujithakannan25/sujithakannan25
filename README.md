@@ -13,8 +13,8 @@
 - 🌱 Currently learning **LLMs, LangChain & MLOps**
 - 🎯 Goal: Land an **AI/ML Engineer role in Canada**
 - 💡 Interested in **NLP, Generative AI & ML Pipelines**
-- 📫 Reach me at: **[your email here]**
-- 🔗 LinkedIn: **[your linkedin link here]**
+- 📫 Reach me at: **[k.sujithakannane2006@gmail.com]**
+- 🔗 LinkedIn: **[www.linkedin.com/in/sujithakannan25]**
 
 ---
 
