@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujitha</h1>
-<h3 align="center">🤖 AI/ML Engineer (Aspiring) | CSE Final Year | India → Canada 🇨🇦</h3>
+<h3 align="center">🤖 AI/ML Engineer (Aspiring) | CSE(AIML) Final Year | India → Canada 🇨🇦</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&width=500&lines=Final+Year+CSE+(AI%2FML)+Student;Building+ML+%26+LLM+Projects;Open+to+Canada+Opportunities!" alt="Typing SVG" />
