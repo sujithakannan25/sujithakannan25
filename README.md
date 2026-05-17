@@ -67,7 +67,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - ✅ Build 5 strong AI/ML projects
 - ⬜ Get AWS Cloud Practitioner certified
